@@ -17,7 +17,7 @@ realesrgan
 scikit-image>=0.19
 timm==0.4.12
 transformers==4.25.1
-torch
+torch==2.0
 torchaudio
 einops
 jsonmerge
